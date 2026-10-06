@@ -1,0 +1,6 @@
+[submodule "phatbooty"]
+	path = phatbooty
+	url = https://github.com/chouithegewy/phatbooty.git
+[submodule "threezpoly"]
+	path = threezpoly
+	url = https://github.com/chouithegewy/threezpoly.git
